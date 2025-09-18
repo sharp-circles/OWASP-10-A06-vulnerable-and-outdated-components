@@ -1,4 +1,3 @@
-````markdown
 # OWASP TOP 10 - A06: Vulnerable and Outdated Components
 
 Using the native OWASP Dependency Check tool with the docker approach to analyze vulnerabilities in a .NET web application
@@ -103,7 +102,6 @@ The generated HTML report provided detailed information on each finding. Here's 
   * **Maintain Up-to-Date Dependencies**: The scan results clearly show the risk of using outdated libraries. Regularly update your third-party components to their latest, most secure versions.
   * **Review Reports**: Don't just run the scan; actively review the reports to understand the risks and prioritize remediation efforts.
 
-<!-- end list -->
+## Source article
 
-```
-```
+https://sharpcircles.org/post/wtm16-owasp-10-a06-vulnerable-and-outdated-components-lab-analysis-of
